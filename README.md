@@ -10,5 +10,5 @@
 - fastai_multicategorial_hbku2019.ipynb 
       
 **Image regression:**
-- cats_face.ipynb
+- fastai: cats_face.ipynb
     
