@@ -1,6 +1,6 @@
-# ML_projects #
+# ML_projects
 
-##Image classification:##
+##Image classification:
 
     #cats vs dogs:#
     
