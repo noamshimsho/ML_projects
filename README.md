@@ -1,6 +1,6 @@
 # ML_projects
 
-#Image classification:
+Image classification:
 
     cats vs dogs:
     
@@ -11,7 +11,7 @@
     
         - fastai_multicategorial_hbku2019.ipynb
        
-#Image regression:
+Image regression:
 
     - cats_face.ipynb
     
