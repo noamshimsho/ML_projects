@@ -1,17 +1,17 @@
 # ML_projects
 
-##Image classification:
+#Image classification:
 
-    #cats vs dogs:#
+    cats vs dogs:
     
         - pytorch model: pytorch cats vs dogs.ipynb
         - fastai: fastai_cats-dogs.ipynb
     
-    #Multicategorial classification:#
+    Multicategorial classification:
     
         - fastai_multicategorial_hbku2019.ipynb
        
-##Image regression:##
+#Image regression:
 
     - cats_face.ipynb
     
