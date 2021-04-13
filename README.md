@@ -11,7 +11,9 @@
       
 **Image regression:**
 - fastai: cats_face.ipynb
-    
+ 
+ **Collaborative Filtering:**
+- fastai: Jester_jokes_ratings.ipynb
     
 # Data science
 - joke_data_science.ipynb
