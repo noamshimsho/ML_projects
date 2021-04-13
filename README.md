@@ -12,3 +12,6 @@
 **Image regression:**
 - fastai: cats_face.ipynb
     
+    
+# Data science
+- joke_data_science.ipynb
