@@ -14,6 +14,9 @@
  
  **Collaborative Filtering:**
 - fastai: Jester_jokes_ratings.ipynb
-    
+ 
+ **Tabular Data:**
+- Random forest and nn House Prices.ipynb
+ 
 # Data science
 - joke_data_science.ipynb
