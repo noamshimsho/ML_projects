@@ -17,6 +17,9 @@
  
  **Tabular Data:**
 - Random forest and nn House Prices.ipynb
+
+ **NLP:**
+- NLP classification Disaster_Tweets.ipynb
  
 # Data science
 - joke_data_science.ipynb
